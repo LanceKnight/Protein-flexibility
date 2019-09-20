@@ -136,15 +136,15 @@ By comparison our result with protein b-factor, which is an indicator of protein
 
 # 4	Further Discussion
 
-There are two bugs noticed in this project and may be addressed in the future en-deavor. (See Fig. 7 and Fig. 8)
+There are two bugs noticed in this project and may be addressed in the future en-deavor. (See Fig. 6 and Fig. 7)
+
+![fig6](fig6.jpg)
+
+**Fig. 6.** Before combination, the rings in original visualization (left) become cylinders in VTK(right)
 
 ![fig7](fig7.jpg)
 
-**Fig. 7.** Before combination, the rings in original visualization (left) become cylinders in VTK(right)
-
-![fig8](fig8.jpg)
-
-**Fig. 8.** After combination, the ball and cylinders are even gone.
+**Fig. 7.** After combination, the ball and cylinders are even gone.
 
 # 5	Acknowledgement
 
